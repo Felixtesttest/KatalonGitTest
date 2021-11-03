@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite1,,,,2021-11-03 17:23:21,2021-11-03 17:23:40,19.168s,FAILED
+,,,,,,,
+Test Cases/Test 1 by Tom,,,,2021-11-03 17:23:22,2021-11-03 17:23:36,14.404s,FAILED
+"openBrowser(""www.google.com"")",,,,2021-11-03 17:23:23,2021-11-03 17:23:36,13.154s,FAILED
+,,,,,,,
+Test Cases/Test 2 by HIHI,,,,2021-11-03 17:23:36,2021-11-03 17:23:40,3.813s,FAILED
+"openBrowser("""")",,,,2021-11-03 17:23:37,2021-11-03 17:23:40,3.171s,FAILED
